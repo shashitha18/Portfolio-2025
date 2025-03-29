@@ -1,6 +1,6 @@
 import "./App.css";
 import Line from "./assets/img/Line 2.svg";
-import HeroImage from "./assets/img/heroimage.png";
+import HeroImage from "./assets/img/heroImage.png";
 import GithubIcon from "./assets/img/GitHub_Icon.png";
 import LinkedinIcon from "./assets/img/Linkedin_Icon.png";
 import DribbleIcon from "./assets/img/Dribble_Icon.png";
